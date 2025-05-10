@@ -28,6 +28,7 @@ This repository outlines the post-install configuration of the open-source help 
 
 <h2>Configuration Steps</h2>
 
+<!--ROLES-->
 <p>
 <img src="https://github.com/user-attachments/assets/91e314b4-f14b-424f-b42c-181c4aabba22"/>
 </p>
@@ -36,6 +37,7 @@ This repository outlines the post-install configuration of the open-source help 
 </p>
 <br />
 
+<!--DEPTs-->
 <p>
 <img src="https://github.com/user-attachments/assets/8f564b2e-ff52-4157-8c61-eeeaaadcfcc4"/>
 </p>
@@ -44,6 +46,7 @@ This repository outlines the post-install configuration of the open-source help 
 </p>
 <br />
 
+<!--TEAMS-->
 <p>
 <img src="https://github.com/user-attachments/assets/1282be03-920b-4a00-9d5a-846158ddc871"/>
 </p>
@@ -52,6 +55,7 @@ This repository outlines the post-install configuration of the open-source help 
 </p>
 <br />
 
+<!--AGENTS-->
 <p>
 <img src="https://github.com/user-attachments/assets/c1315768-2f55-4bc9-a6b1-16af5ed0350b"/>
 </p>
@@ -60,14 +64,16 @@ This repository outlines the post-install configuration of the open-source help 
 </p>
 <br />
 
+<!--USERS-->
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/85950b06-0e58-4d2e-83b6-18d3da80164e"/>
 </p>
 <p>
-<b>Users</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>Users</b> | In osTicket, users are the end customers or requesters who submit tickets. In this scenario, I created two, Karen and Kendrick.
 </p>
 <br />
 
+<!--SLAs-->
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -76,6 +82,7 @@ This repository outlines the post-install configuration of the open-source help 
 </p>
 <br />
 
+<!--HELP TOPICS-->
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
